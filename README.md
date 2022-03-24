@@ -1,5 +1,7 @@
 ---
-description: Jianxiong Li - lijianxiong@pku.edu.cn - Peking University, Guanghua School of Management
+description: >-
+  Jianxiong Li 李剑雄 - lijianxiong@pku.edu.cn  Peking University, Guanghua School
+  of Management
 ---
 
 # Foreword
