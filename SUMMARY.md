@@ -4,5 +4,5 @@
 
 ## Probability Theory
 
-* [Page 2](probability-theory/Sets-and-Probability.md)
+* [Sets and Probability](probability-theory/Sets-and-Probability.md)
 
