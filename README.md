@@ -1,7 +1,10 @@
 ---
 description: >-
-  Jianxiong Li 李剑雄 - lijianxiong@pku.edu.cn  Peking University, Guanghua School
-  of Management
+  Jianxiong Li (lijianxiong@pku.edu.cn) - Peking University, Guanghua School of
+  Management
+cover: >-
+  https://images.unsplash.com/photo-1646425111739-de69fef33bc5?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDgxMzExNDc&ixlib=rb-1.2.1&q=85
+coverY: 66
 ---
 
 # Foreword
