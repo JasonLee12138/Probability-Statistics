@@ -1,5 +1,0 @@
-about-the-notes
-importance-of-this-course
-advice-on-how-to-learn-well
-hello-bookdown
-a-section
