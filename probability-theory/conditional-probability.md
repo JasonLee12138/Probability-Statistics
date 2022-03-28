@@ -42,4 +42,4 @@ $$
 $$
 A_{1} \cap A_{2} \cap \ldots \cap A_{n}=\left(A_{1}^{C} \cup A_{2}^{C} \cup \ldots \cup A_{n}^{C}\right)
 $$
-- Usually, here $$P\left(A_{i_{1}} A_{i_{2}} \ldots A_{i_{j}}\right)$$ is an unchanged constant for a fixed $$j$$. So you just have to figure the expression for $$j
+- Usually, here $$P\left(A_{i_{1}} A_{i_{2}} \ldots A_{i_{j}}\right)$$ is an unchanged constant for a fixed $$j$$. So you just have to figure the expression for $$j$$.
