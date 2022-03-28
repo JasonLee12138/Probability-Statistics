@@ -1,6 +1,12 @@
 # Sets and Probability
 
-## Some Comments on Experiment
+## Framework
+
+- Basic concepts in probability theory: experiment, sample, sample space, event
+- Set Theory
+- Definition of probability
+
+## Some Comments on Event
 
 简单来说，观测的每一个可能结果都是一个样本点，而某些样本点放在一起构成的集合是一个事件。
 
